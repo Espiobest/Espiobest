@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Espiobest's github stats](https://github-readme-stats.vercel.app/api?username=espiobest)](https://github.com/anuraghazra/github-readme-stats)
+[![Espiobest's github stats](https://github-readme-stats.vercel.app/api?username=espiobest&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Espiobest/Espiobest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
