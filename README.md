@@ -5,7 +5,7 @@ Programmer
 
 * 🧠  I'm learning Rust
 * ⚡  Interested in Full Stack Development
-* 🌟 Aspiring Software Engineer | Seeking Summer 2025 Internship Opportunities | Passionate about Building Impactful Solutions 🚀
+* 🌟 Aspiring Software Engineer | Seeking Fall 2025 Internship Opportunities | Passionate about Building Impactful Solutions 🚀
 ### Skills
 
 <p align="left">
