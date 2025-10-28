@@ -2,10 +2,11 @@ Programmer
 ----------
 
 21\. Procrastinating
+### I am seeking New Grad 2026 opportunities! Contact me [here](https://espiobest.me/contact)
 
 * 🧠  I'm learning Rust
 * ⚡  Interested in Full Stack Development
-* 🌟 Aspiring Software Engineer | Seeking Fall 2025 Internship Opportunities | Passionate about Building Impactful Solutions 🚀
+* 🌟  Software Engineer | Passionate about Building Impactful Solutions 🚀
 ### Skills
 
 <p align="left">
