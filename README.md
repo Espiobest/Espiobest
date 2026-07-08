@@ -1,48 +1,46 @@
-Programmer
-----------
+# Hi, I'm Ayush 👋
+22
 
-21\. Procrastinating
-### I am seeking New Grad 2026 opportunities! Contact me [here](https://espiobest.me/contact)
+### 🎯 I am seeking New Grad 2026 opportunities! Contact me [here](https://espiobest.me/contact)
+- 🎓 CS + Math grad from UMass Amherst
+- 🌊 Building the **[Salt Marsh Data Platform](https://saltmarshdata.org)**, an environmental monitoring platform (FastAPI, React, PostgreSQL, AWS, offline-first Flutter) funded by MA DEP and piloting with orgs across the Northeast
+- 🧠 Learning Rust
+- 🌐 Check out my portfolio - [espiobest.me](https://espiobest.me)
 
-* 🧠  I'm learning Rust
-* ⚡  Interested in Full Stack Development
-* 🌟  Software Engineer | Passionate about Building Impactful Solutions 🚀
 ### Skills
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,cpp,js,ts,rust,react,fastapi,flutter,postgres,redis,docker,aws" /></a>
 </p>
-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Espiobest" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Espiobest" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="https://www.github.com/Espiobest" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /></a>
+<a href="https://www.twitter.com/Espiobest" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" /></a>
+</p>
 
-### Badges
+[![Portfolio](https://img.shields.io/badge/Portfolio-espiobest.me-0891b2?style=for-the-badge)](https://espiobest.me)
+
+### GitHub Stats
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Espiobest"><img src="https://github-readme-stats.vercel.app/api?username=Espiobest&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Espiobest's GitHub stats" /></a>
+<a href="http://www.github.com/Espiobest"><img src="https://github-stats-extended.vercel.app/api?username=Espiobest&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Espiobest's GitHub stats" /></a>
 
-<a href="http://www.github.com/Espiobest"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Espiobest&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Espiobest"><img src="https://streak-stats.demolab.com/?user=Espiobest&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Espiobest" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Espiobest&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Espiobest" align="left"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Espiobest&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Espiobest/DiscordBot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Espiobest&repo=DiscordBot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Espiobest/LinkedList" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Espiobest&repo=LinkedList&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br />
-
+<div width="100%" align="center">
+<a href="https://github.com/Espiobest/poker-gui" align="left"><img align="left" width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=Espiobest&repo=poker-gui&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/UMassCDS/massmarsh-app" align="right"><img align="right" width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=UMassCDS&repo=massmarsh-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
+<br /><br /><br /><br /><br />
 <br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Espiobest/Visualizations" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Espiobest&repo=Visualizations&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Espiobest/Maze-Generator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Espiobest&repo=Maze-Generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+<a href="https://github.com/UnityHPC/ds4cg-job-analytics" align="left"><img align="left" width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=UnityHPC&repo=ds4cg-job-analytics&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/Espiobest/Spotify-Stats-Viewer" align="right"><img align="right" width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=Espiobest&repo=Spotify-Stats-Viewer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
