@@ -1,8 +1,8 @@
 # Hi, I'm Ayush 👋
 22
 
-### 🎯 I am seeking New Grad 2026 opportunities! Contact me [here](https://espiobest.me/contact)
-- 🎓 CS + Math grad from UMass Amherst
+### 🎯 I am seeking New Grad 2027 opportunities! Contact me [here](https://espiobest.me/contact)
+- 🎓 Bay State Fellow, MS CS @ UMass. CS + Math grad from UMass Amherst. 
 - 🌊 Building the **[Salt Marsh Data Platform](https://www.umass.edu/gloucester-marine-station/mass-marsh)**, an environmental monitoring platform (FastAPI, React, PostgreSQL, AWS, offline-first Flutter) funded by MA DEP and piloting with orgs across the Northeast
 - 🧠 Learning Rust
 - 🌐 Check out my portfolio - [espiobest.me](https://espiobest.me)
